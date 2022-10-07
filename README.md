@@ -1,5 +1,9 @@
-# Sentimental-Analysis-of-Reviews
+## Sentimental-Analysis-of-Reviews
 
-Performed sentiment analysis on car reviews. Each review has label "Pos" or "Neg" to give an idea of the sentiment of reviews. In this Jupyter notebook, I have implement a Naïve Bayes classifier using 80% (1106) of the reviews as training data. The training data was selected at random from the full dataset. Classifier was tested using the remaining 20% (276) of the reviews and classifier’s performance was reported using a confusion matrix.
+### car reviews
+Notebook "Code", contains implementation of sentiment analysis of car reviews using NLP and Naive Bayes classifier (Multinomial). I have compared the performance of this classifier by using different ngram range and types of naive bayes classifier.
 
-The performance of the classifer is compared using different number of n-grams and a different types of Naive Bayes classifier.
+### IMDb review
+Notebook "imdb" contains implementation of sentiment analysis of imdb reviews using NLP, SVM and Boosting. Compared the performance using different kernel of SVM and depths of decision tree.
+
+Note: Both the notebooks are explained in detail using the markdown cell. Feedback and collaboration appreciated!
