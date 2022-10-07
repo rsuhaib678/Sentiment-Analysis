@@ -1,6 +1,6 @@
 ## Sentimental-Analysis-of-Reviews
 
-### car reviews
+### Car reviews
 Notebook "Code", contains implementation of sentiment analysis of car reviews using NLP and Naive Bayes classifier (Multinomial). I have compared the performance of this classifier by using different ngram range and types of naive bayes classifier.
 
 ### IMDb review
